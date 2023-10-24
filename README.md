@@ -1,4 +1,4 @@
-# Jaan Pahchan UI 
+# Jaan Pahchan Website
 
 # Deployed of Netlify-
 - https://material-ui-pratice-with-reactjs.netlify.app/
