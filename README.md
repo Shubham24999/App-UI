@@ -4,12 +4,11 @@
 - https://material-ui-pratice-with-reactjs.netlify.app/
 
 
-` Forn Use In Your Local System
+` For Use In Your Local System
  Install:- 
- 1. NodeJs
- 2. npm i
- 3. npm install @mui/material @emotion/react @emotion/styled
- 4. npm install @mui/icons-material
+ 1. npm i
+ 2. npm install @mui/material @emotion/react @emotion/styled
+ 3. npm install @mui/icons-material
 ` 
 
 # Dark Mode UI
