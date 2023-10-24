@@ -1,4 +1,4 @@
-# Material UI Pratice 
+# Jaan Pahchan UI 
 
 # Deployed of Netlify-
 - https://material-ui-pratice-with-reactjs.netlify.app/
